@@ -3,6 +3,8 @@
 LAB - Class 03
 Project: Basic API Server
 Author: Steve Gant (collab with Marco Villafana and Brenda Jow)
+Attrib: Used some code from live demo [Class 3 live-demo repo](https://github.com/codefellows/seattle-code-javascript-401d51/tree/main/class-03/live-demo)
+
 Problem Domain
 Build a REST API using Express, by creating a proper series of endpoints that perform CRUD operations on a database, using the REST standard
 
